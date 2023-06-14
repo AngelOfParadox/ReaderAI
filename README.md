@@ -1,4 +1,4 @@
-# Reader with AI: Transform Your Documents into Conversations with chatGPT
+# Reader with AI: Transform Your Documents into Conversations with chatGPT 
 
 Did you know that chatGPT can engage in interactive conversations with your documents? In this Python workshop, you will discover how to make it possible. Forget about limitations - now you can chat and explore your documents in a whole new way.
 
@@ -30,7 +30,7 @@ Using ReaderAI is easy! Here are the steps:
    streamlit run app.py
    ```
 4. Get an API key from OpenAI.
-5. Enjoy the magic.
+5. Enjoy the magic.🦄
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
